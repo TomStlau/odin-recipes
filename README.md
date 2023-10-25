@@ -1,0 +1,1 @@
+This is a basic HTML project from The Odin Project. The goal of this exercise is to build basic knowledge of HTML.
